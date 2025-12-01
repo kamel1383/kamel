@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 4999,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/iphone15pro.png",
+    "specs": "8GB • 256GB • 48MP • A17 Pro • 6.1\""
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 4099,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/s24.png",
+    "specs": "12GB • 256GB • 50MP • Snapdragon 8 Gen 3 • 6.2\""
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Redmi Note 13",
+    "price": 1299,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/redminote13.png",
+    "specs": "8GB • 128GB • 108MP • MediaTek G99 • 6.7\""
+  },
+  {
+    "id": 4,
+    "name": "Huawei Nova 12 Lite",
+    "price": 1599,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/nova12lite.png",
+    "specs": "8GB • 256GB • 50MP • Snapdragon 680 • 6.7\""
+  },
+  {
+    "id": 5,
+    "name": "Oppo Reno 11",
+    "price": 2799,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/reno11.png",
+    "specs": "12GB • 256GB • 50MP • Dimensity 7050 • 6.7\""
+  },
+  {
+    "id": 6,
+    "name": "Infinix Hot 40 Pro",
+    "price": 799,
+    "image": "https://raw.githubusercontent.com/TON_COMPTE/TON_REPO/main/images/hot40pro.png",
+    "specs": "8GB • 128GB • 108MP • Helio G99 • 6.78\""
+  }
+]
